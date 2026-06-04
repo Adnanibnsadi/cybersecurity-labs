@@ -1,2 +1,2 @@
 # cybersecurity-labs
-A collection of cybersecurity labs, practical exercises, and learning projects completed while studying Cisco Cybersecurity Essentials.
+A collection of cybersecurity labs, practical hands-on exercises, and learning projects completed while studying Cisco Cybersecurity Essentials.
