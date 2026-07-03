@@ -1,0 +1,80 @@
+# Cisco Packet Tracer – Investigate a Threat Landscape
+
+## Overview
+
+This repository contains my completed Cisco Packet Tracer cybersecurity lab on investigating common network threats and vulnerabilities.
+
+The lab focuses on identifying security weaknesses, understanding attack techniques, and applying defensive best practices in simulated enterprise and home network environments.
+
+---
+
+## Objectives
+
+* Investigate network configuration vulnerabilities
+* Analyze phishing and ransomware attacks
+* Understand rogue wireless access points
+* Explore DNS hijacking attacks
+* Learn practical cybersecurity mitigation techniques
+
+---
+
+## Lab Activities
+
+### Part 1 – Network Configuration Vulnerability
+
+In this activity, I investigated a misconfigured guest wireless network that allowed unauthorized access to internal devices.
+
+**Key Learning**
+
+* Router security configuration
+* Guest network isolation
+* Wireless security best practices
+
+---
+
+### Part 2 – Phishing Malware Investigation
+
+This activity demonstrated how phishing emails can deliver ransomware and compromise organizational systems.
+
+**Key Learning**
+
+* Social engineering attacks
+* Ransomware behavior
+* Security awareness training
+
+---
+
+### Part 3 – Wireless Network & DNS Vulnerability
+
+This section demonstrated how attackers create rogue Wi-Fi access points and manipulate DNS responses to redirect users to malicious websites.
+
+**Key Learning**
+
+* Rogue Access Points
+* DNS Hijacking
+* DHCP Misconfiguration
+* Man-in-the-Middle Attacks
+
+---
+
+## Skills Demonstrated
+
+* Cisco Packet Tracer
+* Network Security
+* Cybersecurity Fundamentals
+* Wireless Security
+* DNS Security
+* Threat Analysis
+* Vulnerability Assessment
+
+---
+
+## Screenshots
+
+The `screenshots` folder contains images documenting each activity and its results.
+
+---
+
+## What I Learned
+
+This lab highlighted how seemingly small security misconfigurations can lead to significant cyberattacks. It reinforced the importance of secure network design, user awareness, and layered security controls to protect organizational assets.
